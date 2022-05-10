@@ -2,43 +2,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on soup ink.</title>
-    <link>http://example.org/posts/</link>
+    <link>https://soup.ink/posts/</link>
     <description>Recent content in Posts on soup ink.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://soup.ink/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://soup.ink/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://soup.ink/about/</guid>
       <description>about</description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>http://example.org/archive/</link>
+      <link>https://soup.ink/archive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/archive/</guid>
+      <guid>https://soup.ink/archive/</guid>
       <description>archive</description>
     </item>
     
     <item>
-      <title>Test Page</title>
-      <link>http://example.org/posts/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/posts/test/</guid>
-      <description>I Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
       <title>Writers</title>
-      <link>http://example.org/writers/</link>
+      <link>https://soup.ink/writers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/writers/</guid>
+      <guid>https://soup.ink/writers/</guid>
       <description>writers</description>
     </item>
     

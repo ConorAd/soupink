@@ -14,6 +14,11 @@ params:
     imageTitle: "soup ink."
     imageWidth: 150
     imageHeight: 150
+    buttons:
+    - name: "support us"
+      url: "https://ko-fi.com/soupink"
+    - name: "get in touch"
+      url: "mailto:soupinkcoop@gmail.com"
 
   socialIcons:
     - name: instagram
