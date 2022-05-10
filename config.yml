@@ -1,4 +1,4 @@
-baseURL: https://cute-lamington-4a9f10.netlify.app/
+baseURL: "https://cute-lamington-4a9f10.netlify.app/"
 languageCode: en-us
 title: soup ink.
 theme: "PaperMod"
