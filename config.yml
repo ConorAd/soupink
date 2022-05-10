@@ -1,4 +1,4 @@
-baseURL: "https://cute-lamington-4a9f10.netlify.app/"
+baseURL: "https://soup.ink"
 languageCode: en-us
 title: soup ink.
 theme: "PaperMod"
@@ -12,11 +12,11 @@ params:
     subtitle: "_soup ink._ is a Belfast-based co-operative for artists, musicians, and writers. It exists to give Belfast voices and talent a chance to be heard, and mutually support one another."
     imageUrl: /img/altlogo.svg
     imageTitle: "soup ink."
-    imageWidth: 150 # custom size
-    imageHeight: 150 # custom size
+    imageWidth: 150
+    imageHeight: 150
 
   homeInfoParams:
-    Title: "test"
+    Title: "soup ink."
     Content: _soup ink._ is a Belfast-based co-operative for artists, musicians, and writers. It exists to give Belfast voices and talent a chance to be heard, and mutually support one another.
 
   socialIcons:
