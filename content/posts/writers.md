@@ -6,7 +6,7 @@ summary: writers
 ---
 
 
-# Hannah Gibson
+# Hannah Gibson ![Hannah Gibson](image.jpg)
 
 H. R. Gibs, also know as Hannah Gibson, is an international woman of mystery until you meet her. She is a freelance writer who likes to do anything but put pen to paper. She cares a lot about kindness, direct action and the discography of Carly Rae Jepsen. One day she hopes to write something worth reading but so far it’s been a test of patience
 
