@@ -15,10 +15,6 @@ params:
     imageWidth: 150
     imageHeight: 150
 
-  homeInfoParams:
-    Title: "soup ink."
-    Content: _soup ink._ is a Belfast-based co-operative for artists, musicians, and writers. It exists to give Belfast voices and talent a chance to be heard, and mutually support one another.
-
   socialIcons:
     - name: instagram
       url: "https://www.instagram.com/soupinkcoop/"
