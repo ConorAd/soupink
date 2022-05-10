@@ -1,0 +1,47 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: soup ink.
+theme: PaperMod
+
+params:
+  defaultTheme: auto
+  disableThemeToggle: true
+
+  profileMode:
+    enabled: true
+    subtitle: "_soup ink._ is a Belfast-based co-operative for artists, musicians, and writers. It exists to give Belfast voices and talent a chance to be heard, and mutually support one another."
+    imageUrl: /img/altlogo.svg
+    imageTitle: "soup ink."
+    imageWidth: 150 # custom size
+    imageHeight: 150 # custom size
+
+  homeInfoParams:
+    Title: "test"
+    Content: _soup ink._ is a Belfast-based co-operative for artists, musicians, and writers. It exists to give Belfast voices and talent a chance to be heard, and mutually support one another.
+
+  socialIcons:
+    - name: instagram
+      url: "https://www.instagram.com/soupinkcoop/"
+    - name: youtube
+      url: "https://www.youtube.com/channel/UC_jOqWSep66D6SClPNh6iRw"
+    - name: twitch
+      url: "https://www.twitch.tv/soupink"
+    - name: soundcloud
+      url: "https://soundcloud.com/offshootradio"
+
+  ShowShareButtons: true
+
+menus:
+  main:
+    - identifier: "Archive"
+      name: "archive"
+      url: "/archive/"
+      weight: 10
+    - identifier: "About"
+      name: "about"
+      url: "/about/"
+      weight: 20
+    - identifier: "Writers"
+      name: "writers"
+      url: "/writers/"
+      weight: 30
