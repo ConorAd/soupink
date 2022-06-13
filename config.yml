@@ -42,7 +42,7 @@ menus:
       name: "about"
       url: "/about/"
       weight: 20
-    - identifier: "Writers"
-      name: "writers"
-      url: "/writers/"
+    - identifier: "Projects"
+      name: "projects"
+      url: "/projects/"
       weight: 30
