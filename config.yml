@@ -15,6 +15,8 @@ params:
     imageWidth: 150
     imageHeight: 150
     buttons:
+    - name: "what's on"
+      url: "https://linktr.ee/soupink"
     - name: "support us"
       url: "https://ko-fi.com/soupink"
     - name: "get in touch"
