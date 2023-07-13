@@ -45,8 +45,8 @@ menus:
     - identifier: "Projects"
       name: "projects"
       url: "/projects/"
-      weight: 30 
-      - identifier: "Bookfair"
+      weight: 30
+    - identifier: "Bookfair"
       name: "bookfair"
       url: "/bookfair/"
       weight: 40
