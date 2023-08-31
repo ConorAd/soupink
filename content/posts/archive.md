@@ -5,6 +5,8 @@ url: "/archive/"
 summary: archive
 ---
 
+soup ink. started during the first Covid-19 lockdown. Initially we streamed music and poetry events and learnt how to navigate this process together. Here's a run down of some of those events:
+
 [![BIG DAISY](https://res.cloudinary.com/marcomontalbano/image/upload/v1652207907/video_to_markdown/images/youtube--zFtXV2q1BTc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/zFtXV2q1BTc "BIG DAISY")
 **BIG DAISY**
 
