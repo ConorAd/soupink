@@ -11,9 +11,11 @@ From our [Constitution](https://drive.google.com/file/d/1lxkUe52r92h4GxQyhrm2xn-
 
 Openness and transparency underpin how we work, our Constitution has been approved by all our members, and it is viewable at the link above.
 
+{::comment}
 Our [finances](https://drive.google.com/drive/u/4/folders/1aV0FT00k6qWA3q0v18QqLe-QclF4UQgi) our made publicly available to ensure accountability and scrutiny.
 
 [Minutes](https://drive.google.com/drive/u/4/folders/16XAl8cDlwndFgFw0wWBVeSSzjzmRrzga) are available for all previous meetings.
+{:/comment}
 
 soup ink. is proud to have helped organise events alongside grassroots political activists in Belfast. In 2023 we were part of the team behind an alternative International Working Women's Day and alt-Pride.
 
