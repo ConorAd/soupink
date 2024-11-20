@@ -52,3 +52,7 @@ menus:
       name: "bookfair"
       url: "/bookfair/"
       weight: 40
+    - identifier: "Zines"
+      name: "zines"
+      url: "/zines/"
+      weight: 40
